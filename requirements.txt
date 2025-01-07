@@ -7,5 +7,5 @@ faiss-cpu
 langchain_google_genai
 langchain-community
 SpeechRecognition
-pyaudio
+# pyaudio
 pydub
