@@ -8,4 +8,5 @@ langchain_google_genai
 langchain-community
 SpeechRecognition
 pydub
+gTTS
 # pyaudio
